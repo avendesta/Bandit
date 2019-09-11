@@ -1,0 +1,5 @@
+files with name that starts with dot(.) are hidden. use 'ls -la' to list those files
+
+
+nextLevel: ssh bandit4@bandit.labs.overthewire.org -p 2220
+password: "pIwrPrtPN36QITSp3EQaw936yaFoFgAB"

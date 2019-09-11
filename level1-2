@@ -1,0 +1,5 @@
+Dash has another meaning for bash
+LINK: "https://unix.stackexchange.com/questions/16357/usage-of-dash-in-place-of-a-filename"
+
+nextLevel: ssh bandit2@bandit.labs.overthewire.org -p 2220
+password: "CV1DtqXWVFXTvM2F0k09SHz0YwRINYA9"

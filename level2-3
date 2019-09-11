@@ -1,0 +1,5 @@
+Use quote to read a file name that has spaces. also you can use \
+
+
+nextLevel: ssh bandit3@bandit.labs.overthewire.org -p 2220
+password: "UmHadQclWmgdLOKQ3YNgjWxGoRMb5luK"

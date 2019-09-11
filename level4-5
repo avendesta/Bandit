@@ -1,0 +1,5 @@
+'file' command is used to see the type of file.
+All the filenames begin with dash. use the same trick you used in the past.
+
+nextLevel: ssh bandit5@bandit.labs.overthewire.org -p 2220
+password: "koReBOKuIDDepwhWk7jZC0RTdopnAYKh"
