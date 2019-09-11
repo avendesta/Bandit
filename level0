@@ -1,0 +1,5 @@
+use 'man ssh' to figure-out how ssh works
+
+
+nextLevel: ssh bandit0@bandit.labs.overthewire.org -p 2220
+password: "bandit0"

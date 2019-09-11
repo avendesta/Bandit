@@ -1,0 +1,5 @@
+There is a readme file in the home directory
+Use cat command to read the content of the readme file
+
+nextLevel: ssh bandit1@bandit.labs.overthewire.org -p 2220
+password: "boJ9jbbUNNfktd78OOpsqOltutMc3MY1"
