@@ -1,0 +1,5 @@
+use grep command to filter
+
+
+nextLevel: ssh bandit8@bandit.labs.overthewire.org -p 2220
+password: "cvX2JJa4CFALtqS87jk27qwqGhBM9plV"
