@@ -1,0 +1,5 @@
+ssh -i sshkey.private bandit14@localhost
+The password canbe found once you logged in and go to /etc/bandit_pass
+
+nextLevel: ssh bandit14@bandit.labs.overthewire.org -p 2220
+password: "4wcYUJFw0k0XLShlDzztnTBHiqxU3b3e"

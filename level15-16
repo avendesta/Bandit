@@ -1,0 +1,5 @@
+ openssl s_client -connect localhost:30001
+
+
+nextLevel: ssh bandit16@bandit.labs.overthewire.org -p 2220
+password: "cluFn7wTiGryunymYOu4RcffSxQluehd"
