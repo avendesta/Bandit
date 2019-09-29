@@ -1,0 +1,5 @@
+look at: "https://stackoverflow.com/questions/18522647/run-ssh-and-immediately-execute-command"
+
+
+nextLevel: ssh bandit19@bandit.labs.overthewire.org -p 2220
+password: "IueksS7Ubh8G3DCwVzrTd8rAVOwq3M5x"

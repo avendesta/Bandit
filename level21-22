@@ -1,0 +1,5 @@
+cat cronjob_bandit22
+
+
+nextLevel: ssh bandit22@bandit.labs.overthewire.org -p 2220
+password: "Yk7owGAcWjwMVRwrTesJEwB7WVOiILLI"

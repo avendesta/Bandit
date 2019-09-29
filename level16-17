@@ -1,5 +1,5 @@
 use nmap -p 31000-32000 localhost , then the command used in the previous level
-Then you will recieve a private rsa key to loginto the next level
+Then you will recieve a private rsa key to loginto the next level.
 
 nextLevel: ssh bandit17@bandit.labs.overthewire.org -p 2220
 password: 
@@ -35,3 +35,4 @@ dxviW8+TFVEBl1O4f7HVm6EpTscdDxU+bCXWkfjuRb7Dy9GOtt9JPsX8MBTakzh3
 vBgsyi/sN3RqRBcGU40fOoZyfAMT8s1m/uYv52O6IgeuZ/ujbjY=
 -----END RSA PRIVATE KEY-----
 
+Make sure the permissions of the certificate file is 600.

@@ -1,0 +1,5 @@
+terminal1: nc -l -p 1234 localhost  ; terminal2: ./suconnect 1234 ; then paste password to terminal1
+
+
+nextLevel: ssh bandit21@bandit.labs.overthewire.org -p 2220
+password: "gE269g2h3mw3pwgrj0Ha9Uoqen1c9DGr"
